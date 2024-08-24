@@ -4,8 +4,11 @@ A small Python script to stress test your CPU and GPU, as well as benchmark your
 
 # Features
 Internet Speedtest
+
 CPU Stresstest
+
 GPU Stresstest
+
 CPU Benchmark
 
 # How to use
